@@ -7,8 +7,8 @@ COLOR3 = '#F8F8F2'
 COLOR4 = '#6272A4'
 COLOR5 = '#606580'
 COLOR6 = '#434E71'
-COLOR7 = '#BD93F9'
-COLOR8 = '#9674C5'
+COLOR7 = '#FFB86C'
+COLOR8 = '#CC9356'
 
 # Configurações da Janela
 window = customtkinter.CTk()
@@ -67,15 +67,16 @@ Button1 = customtkinter.CTkButton(
     width=77, height=50, corner_radius=6, hover_color=COLOR5, cursor='hand2')
 Button1.place(x=3, y=0)
 
-# Botão 'C' para corrigir um valor inserido. Ainda não funciona.
+# Botão 'C' para corrigir um valor inserido. Ainda não funciona corretamente.
 Button2 = customtkinter.CTkButton(
     frame_body, text='C',
     font=('Calibri Bold', 18), text_color=COLOR3, fg_color=COLOR2,
     width=77, height=50, corner_radius=6, hover_color=COLOR5, cursor='hand2')
 Button2.place(x=82, y=0)
 
+# Botão '%' para calcular porcentagem. Ainda não funciona corretamente.
 Button3 = customtkinter.CTkButton(
-    frame_body, command=lambda: insert_value('%'), text='%',
+    frame_body, text='%',
     font=('Calibri Bold', 18), text_color=COLOR3, fg_color=COLOR2,
     width=77, height=50, corner_radius=6, hover_color=COLOR5, cursor='hand2')
 Button3.place(x=161, y=0)
