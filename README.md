@@ -5,10 +5,9 @@ calcular porcentagem, dentre outras melhorias.
 <br>
 <br>
 ## Preview
-<figure>
+<div>
     <a href="#">
         <img align="center" alt="Kiaz0r-Orange" title="Dracula Theme - Orange"
             src="https://media.discordapp.net/attachments/1103709001797079120/1104058257238151329/Orange.png">
     </a>
-    <figcaption>Dracula Theme - Orange</figcaption>
-</figure>
+</div>
