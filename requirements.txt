@@ -1,0 +1,8 @@
+# Runtime
+customtkinter>=5.2.0
+
+# Development & quality (opcional)
+pylint>=3.0.0
+mypy>=1.6.0
+pycodestyle>=2.10.0
+autopep8>=2.0.0
