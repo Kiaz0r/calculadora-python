@@ -52,13 +52,6 @@ Para executar o projeto, siga os passos abaixo:
     python app.py
     ```
 
-## 🖼️ Prévia
-
-<p align="center">
-  <img src="docs/images/preview%20(0).png" alt="Prévia 1" width="420" />
-  <img src="docs/images/preview%20(1).png" alt="Prévia 2" width="420" />
-</p>
-
 ## 🎨 Créditos
 
 - **Tema:** A paleta de cores foi inspirada no [Dracula Theme](https://draculatheme.com/).
