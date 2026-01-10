@@ -68,3 +68,7 @@ reports/
 
 # Optional: ignore local tooling caches
 .cache/.scripts/
+
+# Local Git hooks and scripts (do not version)
+.githooks/
+.scripts/
