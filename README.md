@@ -43,13 +43,23 @@ Para executar o projeto, siga os passos abaixo:
       ```
 
  4. **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+    - Runtime:
+      ```bash
+      pip install -r requirements.txt
+      ```
+    - Desenvolvimento (opcional):
+      ```bash
+      pip install -r requirements-dev.txt
+      ```
 
  5. **Execute a aplicação:**
     ```bash
     python app.py
+    ```
+
+ 6. **Rodar testes (opcional):**
+    ```bash
+    python -m unittest discover -s tests -p "test_*.py" -v
     ```
 
 ## 🖼️ Prévia
