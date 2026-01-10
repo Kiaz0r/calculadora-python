@@ -37,10 +37,10 @@ Para executar o projeto, siga os passos abaixo:
      .\venv\Scripts\activate
      ```
 
-     - No macOS/Linux:
-       ```bash
-       source venv/bin/activate
-       ```
+   - No macOS/Linux:
+      ```bash
+      source venv/bin/activate
+      ```
 
  4. **Instale as dependências:**
     ```bash
@@ -51,6 +51,13 @@ Para executar o projeto, siga os passos abaixo:
     ```bash
     python app.py
     ```
+
+## 🖼️ Prévia
+
+<div align="center">
+  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-1.png?raw=1" alt="Prévia 1" width="420" />
+  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-2.png?raw=1" alt="Prévia 2" width="420" />
+</div>
 
 ## 🎨 Créditos
 
