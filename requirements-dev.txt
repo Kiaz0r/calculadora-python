@@ -1,0 +1,5 @@
+# Development & quality
+pylint~=3.0
+mypy~=1.6
+pycodestyle~=2.10
+autopep8~=2.0
