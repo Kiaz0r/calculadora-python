@@ -1,7 +1,2 @@
-[MASTER]
-disable=
-    C0114, # missing-module-docstring
-    C0116, # missing-function-docstring
-    W0123, # eval-used
-    W0602, # global-variable-not-assigned
-    W0603, # global-statement
+[MESSAGES CONTROL]
+disable = missing-module-docstring, missing-function-docstring, global-variable-not-assigned, global-statement
