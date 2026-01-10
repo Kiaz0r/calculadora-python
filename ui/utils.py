@@ -115,8 +115,7 @@ def compute_display_entry(all_value: str, show_entry_only: bool, entry_started: 
     except Exception:
         last_ch = ''
     if show_entry_only:
-        # Mostrar "0" sempre que a entrada à direita estiver vazia (último char é operador)
-        if last_ch in '+-*/':
+        if entry_started and last_ch in '+-*/':
             return '0'
         try:
             return get_current_entry(all_value)
