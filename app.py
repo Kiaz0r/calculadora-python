@@ -156,7 +156,7 @@ def handle_backspace():
         last_ch = ALL_VALUE[-1] if ALL_VALUE else ''
     except Exception:
         last_ch = ''
-    if SHOW_ENTRY_ONLY and ENTRY_STARTED and last_ch in '+-*/':
+    if SHOW_ENTRY_ONLY and last_ch in '+-*/':
         update_display()
         return
     ALL_VALUE = backspace_expr(ALL_VALUE)
