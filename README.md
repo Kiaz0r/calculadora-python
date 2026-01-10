@@ -55,8 +55,8 @@ Para executar o projeto, siga os passos abaixo:
 ## 🖼️ Prévia
 
 <div align="center">
-  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-1.png?raw=1" alt="Prévia 1" width="420" />
-  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-2.png?raw=1" alt="Prévia 2" width="420" />
+  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-1.png?raw=1" alt="Prévia 1" width="412" />
+  <img src="https://github.com/Kiaz0r/python-calculator/blob/main/docs/images/preview-2.png?raw=1" alt="Prévia 2" width="412" />
 </div>
 
 ## 🎨 Créditos
@@ -65,4 +65,4 @@ Para executar o projeto, siga os passos abaixo:
 - **Ícone:** O ícone da aplicação foi obtido no [Flaticon](https://www.flaticon.com/).
 
 ---
-> Da concepção ao código, por **Kiaz0r**.
+<p align="center"><sub>Da concepção ao código, por <a href="https://kiaz0r.com.br/#inicio"><strong>Kiaz0r</strong></a>.</sub></p>
