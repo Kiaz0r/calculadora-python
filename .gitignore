@@ -67,4 +67,4 @@ Thumbs.db
 reports/
 
 # Optional: ignore local tooling caches
-.cache/
+.cache/.scripts/
